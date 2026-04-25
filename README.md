@@ -6,9 +6,9 @@
 
 I am an MSc Cybersecurity graduate (University of Sunderland, 2024) building at the intersection of **technical security engineering** and **data protection compliance**.
 
-Most organisations know what GDPR requires. Very few have engineers who can implement it by design. I am working to close that gap — through open source tooling, published research, and hands-on technical security work.
+Most organisations know what GDPR requires. Very few have engineers who can implement it by design. I am working to close that gap through open source tooling, published research, and hands-on technical security work.
 
-My postgraduate research focused on **biometric authentication systems** — examining their technical security effectiveness and user experience under GDPR Article 9 (special category biometric data). Alongside this I completed hands-on work in penetration testing, ethical hacking, incident response, network security, cryptography, and secure data pipeline engineering.
+My postgraduate research focused on **biometric authentication systems** by examining their technical security effectiveness and user experience under GDPR Article 9 (special category biometric data). Alongside this I completed hands-on work in penetration testing, ethical hacking, incident response, network security, cryptography, and secure data pipeline engineering.
 
 Currently working at **NHS Business Services Authority**, handling sensitive pension data for NHS members at national scale within strict GDPR and information governance frameworks.
 
