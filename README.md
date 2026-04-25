@@ -2,8 +2,6 @@
 
 **MSc Cybersecurity | UK GDPR & Data Protection Researcher | Privacy-Aware Security Engineering**
 
----
-
 ## About me
 
 I am an MSc Cybersecurity graduate (University of Sunderland, 2024) building at the intersection of **technical security engineering** and **data protection compliance**.
@@ -14,7 +12,6 @@ My postgraduate research focused on **biometric authentication systems** — exa
 
 Currently working at **NHS Business Services Authority**, handling sensitive pension data for NHS members at national scale within strict GDPR and information governance frameworks.
 
----
 
 ## What I build here
 
@@ -25,7 +22,6 @@ Currently working at **NHS Business Services Authority**, handling sensitive pen
 | breach-response-toolkit *(coming soon)* | 72-hour incident response scripts aligned to Articles 33–34 notification requirements | 🔵 Planned |
 | biometric-auth-analysis *(coming soon)* | Code and analysis from MSc biometric authentication research — GDPR Article 9 focus | 🔵 Planned |
 
----
 
 ## Technical stack
 
@@ -37,7 +33,7 @@ Data            ETL pipelines · SQL · NoSQL · Secure data architecture
 Frameworks      NIST · OWASP · ICO guidance . ISO
 ```
 
----
+
 
 ## Niche
 
@@ -47,8 +43,6 @@ Most data protection professionals are lawyers or compliance officers with no en
 Most security engineers have no grounding in data protection law.
 I occupy both.
 
----
-
 ## Currently working on
 
 - 🛠 **dp-audit-toolkit** — v1.0 release
@@ -56,13 +50,9 @@ I occupy both.
 - 🎓 Working toward CIPP/E certification
 - 🤝 Contributing to OWASP UK privacy projects
 
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abosede-makinde-83052a1b7)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:abomaabidemi27@gmail.com)
-
----
 
 *Based in the UK · Open to data protection engineering, privacy-aware security, and GRC roles*
